@@ -1,0 +1,19 @@
+current directory: /Users/e.mamedova/Documents/ruby_projects/tsts/gems/racc-1.8.0/ext/racc/cparse
+/Users/e.mamedova/.rbenv/versions/3.2.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/e.mamedova/Documents/ruby_projects/tsts/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240530-28712-w44tt2 sitelibdir\=./.gem.20240530-28712-w44tt2 clean
+
+current directory: /Users/e.mamedova/Documents/ruby_projects/tsts/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240530-28712-w44tt2 sitelibdir\=./.gem.20240530-28712-w44tt2
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/e.mamedova/Documents/ruby_projects/tsts/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240530-28712-w44tt2 sitelibdir\=./.gem.20240530-28712-w44tt2 install
+/usr/local/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20240530-28712-w44tt2/racc
+
+current directory: /Users/e.mamedova/Documents/ruby_projects/tsts/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240530-28712-w44tt2 sitelibdir\=./.gem.20240530-28712-w44tt2 clean

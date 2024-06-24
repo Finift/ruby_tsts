@@ -1,0 +1,16 @@
+current directory: /Users/e.mamedova/Documents/ruby_projects/tsts/gems/json-2.7.2/ext/json
+/Users/e.mamedova/.rbenv/versions/3.2.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/e.mamedova/Documents/ruby_projects/tsts/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240530-28712-pxk8rt sitelibdir\=./.gem.20240530-28712-pxk8rt clean
+
+current directory: /Users/e.mamedova/Documents/ruby_projects/tsts/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240530-28712-pxk8rt sitelibdir\=./.gem.20240530-28712-pxk8rt
+make: Nothing to be done for `all'.
+
+current directory: /Users/e.mamedova/Documents/ruby_projects/tsts/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240530-28712-pxk8rt sitelibdir\=./.gem.20240530-28712-pxk8rt install
+
+current directory: /Users/e.mamedova/Documents/ruby_projects/tsts/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240530-28712-pxk8rt sitelibdir\=./.gem.20240530-28712-pxk8rt clean
