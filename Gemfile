@@ -4,7 +4,7 @@ gem 'faraday', '~> 2.0'
 
 group :test do
   gem 'rspec', '~> 3.13'
-  gem 'webmock', '~> 3.14'
+  gem 'webmock', '~> 3.23.1'
 end
 
 group :development do

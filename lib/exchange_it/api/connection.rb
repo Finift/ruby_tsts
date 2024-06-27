@@ -6,6 +6,7 @@ module ExchangeIt
       def connection(client)
         Faraday.new(options(client)) do |faraday|
           faraday.adapter Faraday.default_adapter
+        end
       end
     end
 

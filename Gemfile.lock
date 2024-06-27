@@ -89,7 +89,7 @@ DEPENDENCIES
   rubocop (~> 1.64)
   rubocop-performance (~> 1.21)
   rubocop-rspec (~> 2.29, >= 2.29.2)
-  webmock (~> 3.14)
+  webmock (~> 3.23.1)
 
 BUNDLED WITH
    2.5.11
