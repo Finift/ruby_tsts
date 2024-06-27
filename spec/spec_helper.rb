@@ -1,3 +1,5 @@
+require 'dotenv/load'
+require 'webmock/rspec'
 require_relative '../lib/exchange_it'
 
 RSpec.configure do |config|
