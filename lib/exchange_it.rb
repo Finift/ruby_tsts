@@ -1,4 +1,5 @@
 require 'forwardable'
+require 'faraday'
 
 require_relative 'exchange_it/api/connection'
 require_relative 'exchange_it/api/request'
